@@ -1,0 +1,167 @@
+
+baccarat_effect.png
+size: 597,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banker_word
+  rotate: false
+  xy: 362, 128
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+banker_word_en
+  rotate: false
+  xy: 2, 27
+  size: 202, 58
+  orig: 202, 58
+  offset: 0, 0
+  index: -1
+banker_word_th
+  rotate: false
+  xy: 205, 177
+  size: 155, 54
+  orig: 155, 54
+  offset: 0, 0
+  index: -1
+banker_word_vn
+  rotate: true
+  xy: 466, 124
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+card
+  rotate: false
+  xy: 210, 29
+  size: 138, 65
+  orig: 138, 65
+  offset: 0, 0
+  index: -1
+card_heart
+  rotate: false
+  xy: 432, 57
+  size: 138, 65
+  orig: 138, 65
+  offset: 0, 0
+  index: -1
+card_side
+  rotate: false
+  xy: 2, 19
+  size: 136, 6
+  orig: 136, 6
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 577, 575
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 432, 6
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+glow_sharp
+  rotate: false
+  xy: 350, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+glow_soft
+  rotate: false
+  xy: 205, 233
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+green_glow1
+  rotate: false
+  xy: 2, 168
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+green_glow2
+  rotate: false
+  xy: 2, 371
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 439, 243
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+player_word_en
+  rotate: false
+  xy: 393, 439
+  size: 188, 56
+  orig: 188, 56
+  offset: 0, 0
+  index: -1
+player_word_th
+  rotate: false
+  xy: 393, 355
+  size: 158, 82
+  orig: 158, 82
+  offset: 0, 0
+  index: -1
+player_word_vn
+  rotate: false
+  xy: 393, 497
+  size: 182, 96
+  orig: 182, 96
+  offset: 0, 0
+  index: -1
+sparkle
+  rotate: false
+  xy: 229, 439
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 484, 6
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+tie_word
+  rotate: false
+  xy: 327, 240
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+tie_word_en
+  rotate: false
+  xy: 210, 96
+  size: 136, 79
+  orig: 136, 79
+  offset: 0, 0
+  index: -1
+tie_word_th
+  rotate: false
+  xy: 2, 87
+  size: 206, 79
+  orig: 206, 79
+  offset: 0, 0
+  index: -1
+tie_word_vn
+  rotate: false
+  xy: 229, 355
+  size: 162, 82
+  orig: 162, 82
+  offset: 0, 0
+  index: -1

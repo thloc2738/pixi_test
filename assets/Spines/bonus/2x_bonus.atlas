@@ -1,0 +1,104 @@
+
+2x_bonus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: false
+  xy: 318, 336
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+big_star
+  rotate: false
+  xy: 200, 105
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+cn
+  rotate: false
+  xy: 213, 271
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+en
+  rotate: false
+  xy: 213, 226
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+kr
+  rotate: false
+  xy: 200, 62
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+my
+  rotate: false
+  xy: 122, 2
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 318, 393
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+round_flare
+  rotate: false
+  xy: 2, 243
+  size: 209, 251
+  orig: 209, 251
+  offset: 0, 0
+  index: -1
+round_light
+  rotate: false
+  xy: 2, 58
+  size: 196, 183
+  orig: 196, 183
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 200, 163
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+th
+  rotate: false
+  xy: 203, 20
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+trail1
+  rotate: false
+  xy: 213, 323
+  size: 103, 171
+  orig: 103, 171
+  offset: 0, 0
+  index: -1
+trail2
+  rotate: false
+  xy: 421, 382
+  size: 61, 112
+  orig: 61, 112
+  offset: 0, 0
+  index: -1
+vn
+  rotate: false
+  xy: 2, 7
+  size: 118, 49
+  orig: 118, 49
+  offset: 0, 0
+  index: -1
